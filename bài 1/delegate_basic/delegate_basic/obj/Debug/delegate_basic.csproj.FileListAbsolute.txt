@@ -1,0 +1,15 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\bin\Debug\delegate_basic.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\obj\Debug\delegate_basic.csprojResolveAssemblyReference.cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\bin\Debug\delegate_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\bin\Debug\delegate_basic.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\obj\Debug\delegate_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\delegate_basic\delegate_basic\obj\Debug\delegate_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\bin\Debug\delegate_basic.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\obj\Debug\delegate_basic.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\obj\Debug\delegate_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\bin\Debug\delegate_basic.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\bin\Debug\delegate_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\delegate_basic\delegate_basic\obj\Debug\delegate_basic.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\delegate_basic\delegate_basic\bin\Debug\delegate_basic.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\delegate_basic\delegate_basic\obj\Debug\delegate_basic.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\delegate_basic\delegate_basic\obj\Debug\delegate_basic.pdb

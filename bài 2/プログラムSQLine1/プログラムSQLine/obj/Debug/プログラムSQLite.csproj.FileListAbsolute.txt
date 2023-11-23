@@ -1,0 +1,78 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.dll
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.dll
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.xml
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.xml
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Form1.resources
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Properties.Resources.resources
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csproj.GenerateResource.Cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddPhoneNumber.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.xml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.xml
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Form1.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddPhoneNumber.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\backup\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddUsers.resources
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe.config
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.dll
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.dll
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.xml
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.xml
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Form1.resources
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddPhoneNumber.resources
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddUsers.resources
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Properties.Resources.resources
+C:\Users\k-nguyen\Desktop\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\プログラムSQLine.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.dll
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.dll
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.xml
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\bin\Debug\System.Data.SQLite.xml
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Form1.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddPhoneNumber.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.frmAddUsers.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLine.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\プログラムSQLine\プログラムSQLine\obj\Debug\プログラムSQLite.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 2\プログラムSQLine1\プログラムSQLine\bin\Debug\プログラムSQLine.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 2\プログラムSQLine1\プログラムSQLine\obj\Debug\プログラムSQLine.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 2\プログラムSQLine1\プログラムSQLine\obj\Debug\プログラムSQLine.pdb

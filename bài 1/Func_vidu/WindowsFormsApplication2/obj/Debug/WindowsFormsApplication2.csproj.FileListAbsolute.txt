@@ -1,0 +1,21 @@
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Development\stydy_khanh\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\k-nguyen\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\k-nguyen\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\k-nguyen\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\Func_vidu\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

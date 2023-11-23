@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatTCP_IP_Demo", "ChatTCP_IP_Demo\ChatTCP_IP_Demo.csproj", "{91B7D88F-3A8E-4FE6-B9C9-34B313C49990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form_Client", "Form_Client\Form_Client.csproj", "{F3F0048F-4558-4642-AE62-7CAEA3E0439E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B7D88F-3A8E-4FE6-B9C9-34B313C49990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B7D88F-3A8E-4FE6-B9C9-34B313C49990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B7D88F-3A8E-4FE6-B9C9-34B313C49990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B7D88F-3A8E-4FE6-B9C9-34B313C49990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F0048F-4558-4642-AE62-7CAEA3E0439E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F0048F-4558-4642-AE62-7CAEA3E0439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F0048F-4558-4642-AE62-7CAEA3E0439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F0048F-4558-4642-AE62-7CAEA3E0439E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

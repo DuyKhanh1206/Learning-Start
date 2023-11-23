@@ -1,0 +1,6 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\bin\Debug\Console_test.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\bin\Debug\Console_test.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\bin\Debug\Console_test.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\obj\Debug\Console_test.csprojResolveAssemblyReference.cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\obj\Debug\Console_test.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\Console_test\Console_test\obj\Debug\Console_test.pdb

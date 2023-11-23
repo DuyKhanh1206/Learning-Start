@@ -1,0 +1,12 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\bin\Debug\En_DeCode_basic.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\bin\Debug\En_DeCode_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\bin\Debug\En_DeCode_basic.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.csprojResolveAssemblyReference.cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.Form1.resources
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.Properties.Resources.resources
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.csproj.GenerateResource.Cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 4\En_DeCode_basic\En_DeCode_basic\bin\Debug\En_DeCode_basic.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 4\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 4\En_DeCode_basic\En_DeCode_basic\obj\Debug\En_DeCode_basic.pdb

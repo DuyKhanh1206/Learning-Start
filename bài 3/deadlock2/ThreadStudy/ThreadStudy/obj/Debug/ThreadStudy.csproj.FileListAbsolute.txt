@@ -1,0 +1,29 @@
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe.config
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.pdb
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Form1.resources
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Properties.Resources.resources
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.GenerateResource.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.exe
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.pdb
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.AssemblyReference.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.SuggestedBindingRedirects.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.CoreCompileInputs.cache
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe.config
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.exe
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.pdb
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.pdb
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Form1.resources
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Properties.Resources.resources
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Desktop\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\bin\Debug\ThreadStudy.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Form1.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 3\deadlock2\ThreadStudy\ThreadStudy\obj\Debug\ThreadStudy.csproj.GenerateResource.Cache

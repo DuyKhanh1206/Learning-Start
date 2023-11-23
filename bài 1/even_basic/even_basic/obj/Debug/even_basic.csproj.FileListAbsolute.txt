@@ -1,0 +1,15 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\bin\Debug\even_basic.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\bin\Debug\even_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\bin\Debug\even_basic.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\obj\Debug\even_basic.csprojResolveAssemblyReference.cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\obj\Debug\even_basic.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\even_basic\even_basic\obj\Debug\even_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\bin\Debug\even_basic.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\obj\Debug\even_basic.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\obj\Debug\even_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\bin\Debug\even_basic.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\bin\Debug\even_basic.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\even_basic\even_basic\obj\Debug\even_basic.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\even_basic\even_basic\bin\Debug\even_basic.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\even_basic\even_basic\obj\Debug\even_basic.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\even_basic\even_basic\obj\Debug\even_basic.pdb

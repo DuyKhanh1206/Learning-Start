@@ -1,0 +1,21 @@
+C:\Development\stydy_khanh\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.csprojResolveAssemblyReference.cache
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.Form1.resources
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.Properties.Resources.resources
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.csproj.GenerateResource.Cache
+C:\Development\stydy_khanh\lambda\lambda\bin\Debug\lambda.exe
+C:\Development\stydy_khanh\lambda\lambda\bin\Debug\lambda.pdb
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.exe
+C:\Development\stydy_khanh\lambda\lambda\obj\Debug\lambda.pdb
+C:\Users\k-nguyen\Desktop\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.exe
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.pdb
+C:\Users\k-nguyen\Desktop\lambda\lambda\bin\Debug\lambda.exe
+C:\Users\k-nguyen\Desktop\lambda\lambda\bin\Debug\lambda.pdb
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.Form1.resources
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.Properties.Resources.resources
+C:\Users\k-nguyen\Desktop\lambda\lambda\obj\Debug\lambda.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\lambda\lambda\bin\Debug\lambda.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\lambda\lambda\obj\Debug\lambda.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\lambda\lambda\obj\Debug\lambda.pdb

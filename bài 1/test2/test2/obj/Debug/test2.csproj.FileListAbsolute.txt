@@ -1,0 +1,10 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\test2\test2\bin\Debug\test2.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\bin\Debug\test2.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\bin\Debug\test2.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\bin\Debug\test2.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\test2\test2\obj\Debug\test2.pdb

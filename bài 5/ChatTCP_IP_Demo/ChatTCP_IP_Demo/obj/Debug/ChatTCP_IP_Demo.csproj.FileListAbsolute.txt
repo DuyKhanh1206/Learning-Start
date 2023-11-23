@@ -1,0 +1,37 @@
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe.config
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Server.resources
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Properties.Resources.resources
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\Desktop\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.AssemblyReference.cache
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Server.resources
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Properties.Resources.resources
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.GenerateResource.cache
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.CoreCompileInputs.cache
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.exe
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe.config
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe
+C:\Users\n-yuasa\Desktop\★Work\新しいフォルダー (6)\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe.config
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Server.resources
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Properties.Resources.resources
+C:\Users\k-nguyen\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H320R5G5\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.GenerateResource.Cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\bin\Debug\ChatTCP_IP_Demo.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csprojResolveAssemblyReference.cache
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Server.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.Properties.Resources.resources
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\ChatTCP_IP_Demo\ChatTCP_IP_Demo\obj\Debug\ChatTCP_IP_Demo.csproj.GenerateResource.Cache

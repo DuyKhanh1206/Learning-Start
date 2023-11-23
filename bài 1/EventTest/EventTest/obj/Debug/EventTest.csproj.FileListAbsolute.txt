@@ -1,0 +1,12 @@
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\bin\Debug\EventTest.exe.config
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\bin\Debug\EventTest.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\bin\Debug\EventTest.pdb
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\obj\Debug\EventTest.exe
+c:\users\k-nguyen\documents\visual studio 2015\Projects\EventTest\EventTest\obj\Debug\EventTest.pdb
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\EventTest\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\EventTest\EventTest\obj\Debug\EventTest.exe
+C:\Users\k-nguyen\Documents\ALL_DATA\bài học\bài 1\EventTest\EventTest\obj\Debug\EventTest.pdb
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\EventTest\EventTest\bin\Debug\EventTest.exe.config
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\EventTest\EventTest\obj\Debug\EventTest.exe
+C:\Users\k-nguyen\Documents\Visual Studio 2015\Projects\bài học\bài 1\EventTest\EventTest\obj\Debug\EventTest.pdb

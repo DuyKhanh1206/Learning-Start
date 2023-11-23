@@ -1,0 +1,11 @@
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Release\ThreadStudy.exe.config
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Release\ThreadStudy.exe
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\bin\Release\ThreadStudy.pdb
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.csproj.AssemblyReference.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.csproj.SuggestedBindingRedirects.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.Form1.resources
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.Properties.Resources.resources
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.csproj.GenerateResource.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.csproj.CoreCompileInputs.cache
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.exe
+C:\Development\stydy_khanh\ThreadStudy\ThreadStudy\obj\Release\ThreadStudy.pdb
